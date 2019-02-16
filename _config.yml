@@ -1,0 +1,22 @@
+title: Cross Commander
+email: developer@xcmd.io
+description: >-
+  Cross Commander is modern cross-platform open-source dual-pane file manager.
+baseurl: ""
+url: "https://xcmd.io/"
+github_username:  xcmd-io
+
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
+
+# exclude:
+# .*
+# - Gemfile
+# - Gemfile.lock
+# - node_modules
+# - vendor/bundle/
+# - vendor/cache/
+# - vendor/gems/
+# - vendor/ruby/
